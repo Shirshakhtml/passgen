@@ -5,7 +5,7 @@
     <img src="./image.png" alt="Logo" height="135px">
   </a>
 
-  <h2 align="center">ReconTool</h2>
+  <h2 align="center">PassGen</h2>
   <p align="center">
     <a
       href="https://github.com/Shirshakhtml/passgen/issues/new?assignees=&labels=bug">Report
