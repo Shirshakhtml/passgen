@@ -29,3 +29,7 @@
 
 **Figlet :** ```pip3 install pyfiglet```
 
+## Usage 
+```
+python3 passgen.py
+```  
